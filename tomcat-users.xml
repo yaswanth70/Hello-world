@@ -1,0 +1,2 @@
+<role rolename="manager-script"/>
+<user username="jenkins" password="jenkins123" roles="manager-script"/>
